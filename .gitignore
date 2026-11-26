@@ -1,0 +1,6 @@
+# Never push secrets or local data
+.streamlit/secrets.toml
+gemini_key.txt
+*.db
+__pycache__/
+.env
