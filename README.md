@@ -22,4 +22,4 @@ streamlit run vendorslink.py
 ```
 
 ## Live Demo
-Add your Streamlit Cloud link here.
+https://vendorslink.streamlit.app/
